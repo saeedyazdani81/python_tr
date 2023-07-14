@@ -1,13 +1,11 @@
 
 ## Create a class called Car with the following attributes:
-
 #### make: The make of the car
 #### model: The model of the car
 #### year: The year of the car
 #### color: The color of the car
 ### Create a method called drive() in the Car class that prints the following message:
 #### "The car is driving."
-
 ### Create a method called stop() in the Car class that prints the following message:
 #### "The car has stopped."
 #
