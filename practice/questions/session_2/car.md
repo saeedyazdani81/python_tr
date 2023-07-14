@@ -12,7 +12,6 @@
 #### "The car has stopped."
 #
 ## Create a Truck class that inherits from the Car class. The Truck class should have the following additional attributes:
-
 #### bed_size: The size of the truck's bed
 #### towing_capacity: The truck's towing capacity
 #
